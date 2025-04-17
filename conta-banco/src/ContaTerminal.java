@@ -12,7 +12,7 @@ public class ContaTerminal {
         String agencia = scan.nextLine();
 
         System.out.println("Por favor, digite o nome do cliente!");
-        String nomeCLiente = scan.nextLine() ;
+        String nomeCLiente = scan.nextLine();
 
         System.out.println("Por favor, digite o saldo!");
         double saldo = Double.parseDouble(scan.nextLine());
